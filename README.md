@@ -1,0 +1,1 @@
+GET and SET mathod
